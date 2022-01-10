@@ -1,0 +1,38 @@
+<div class="container">
+    <div class="top_bar">
+        <button type="circle" icon="/common/images/ic_share.png" style="width: 18%"></button>
+        <text>专注</text>
+        <button type="circle" icon="/common/images/ic_settings.png" style="width: 18%;"></button>
+    </div>
+    <div class="swiperdiv">
+        <stack>
+            <progress type="eclipse" percent="{{progress_percent}}"></progress>
+            <swiper vertical="true" indicator="false" scrolleffect="spring" @change="getTime">
+                <text class="time_mode" for="time_option">
+                    {{$item}}
+                </text>
+            </swiper>
+            <text class="ch_minute">
+                <span>分钟</span>
+            </text>
+        </stack>
+    </div>
+
+
+
+    <button class="start_concentration" type="text" onclick="start_time">开始专注</button>
+
+    <div class="bottom_bar" style="flex-direction: column;">
+        <div class="btnline" style="flex-direction: row;">
+            <button type="circle" icon="/common/images/ic_concentration.png"></button>
+            <button type="circle" icon="/common/images/ic_tags.png"></button>
+            <button type="circle" icon="/common/images/ic_music.png"></button>
+        </div>
+        <div class="textline" style="flex-direction: row;">
+            <text>专注模式</text>
+            <text>专注标签</text>
+            <text>声音场景</text>
+        </div>
+
+    </div>
+</div>

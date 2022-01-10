@@ -1,0 +1,37 @@
+{
+	"agcgw_all":{
+		"CN":"connect-drcn.dbankcloud.cn",
+		"CN_back":"connect-drcn.hispace.hicloud.com",
+		"DE":"connect-dre.dbankcloud.cn",
+		"DE_back":"connect-dre.hispace.hicloud.com",
+		"RU":"connect-drru.dbankcloud.cn",
+		"RU_back":"connect-drru.hispace.hicloud.com",
+		"SG":"connect-dra.dbankcloud.cn",
+		"SG_back":"connect-dra.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"70086200301115271",
+		"product_id":"737518067794054906",
+		"client_id":"795043429703764480",
+		"client_secret":"[!009F36349F396055429881420F6DD43C00D4E3432340ED9928255C19568CAB2C5B126E70F0931DF3A7A405B9B2F4722140433D330A4497AD78EDAFA0AF731261162DDB2B3C5BC18660EF5872A93CA379F5BE85D8C040B82CA824086D30FDB1E44F]",
+		"project_id":"737518067794054906",
+		"app_id":"105260195",
+		"api_key":"[!00BF41A650F2357B239656A1C46331161D8A10EE08A69157836C0D6AB8D8ACCD08EBFED0216D0E645F360119FF018B6230B46AC1983193AD016018EE3BD69B5816A5CCD018B36C3923FD823F867AD9AA6B59DBB0F0402A066CD5B61C60839BA6ABD8637374666FFD715A45E9C9BDADF6E746F769142349E08E7A0BD76F82674752]",
+		"package_name":"com.example.jstomatoclock"
+	},
+	"oauth_client":{
+		"client_id":"105260195",
+		"client_type":30
+	},
+	"app_info":{
+		"app_id":"795048417041591040",
+		"package_name":"com.example.jstomatoclock"
+	},
+	"code":{
+		"code1":"88D41F91C272087C109C52166709B737",
+		"code2":"2C267E850B8000E0F77F7437DB49D487",
+		"code3":"10092B529391AC25F2E3F0BED9FB1792",
+		"code4":"3B2EC0620934382E70DF91B820FA2AB1"
+	},
+	"configuration_version":"3.0"
+}
